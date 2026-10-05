@@ -88,6 +88,3 @@ Not currently employed. The last roles ended in 2026.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sirtypeofficial&hide_border=true" alt="streak" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sirtypeofficial&theme=flat&no-frame=true&no-bg=true" alt="trophies" /></a>
-</p>
