@@ -1,34 +1,37 @@
-<h1 align="center">Hi 👋, I'm MohammadReza</h1>
-<h3 align="center">I’m Mohammad Reza Vazifeh, a Full Stack .NET Developer passionate about crafting innovative web and mobile apps. Specializing in ASP.NET Core, Blazor, and MAUI, I deliver modern, scalable solutions. I thrive on Clean Architecture, Microservices, and exploring cutting-edge tech like Blockchain and AI. Let’s build your next project together! With a special focus on developing cross-platform applications using .NET MAUI, Blazor WebAssembly, and ASP.NET Core, along with leveraging modern architectural patterns, I am dedicated to delivering customized and innovative software solutions for clients across various projects. Extensive experience in collaborating with development teams and clients on contract-based projects, coupled with the ability to explore and implement blockchain solutions and develop n8n workflow templates for AI agents, enables me to contribute to process improvement and deliver comprehensive and efficient solutions. Continuous learning and application of skills in Artificial Intelligence and trading (converting trading strategies into automated bots) are also among my interests and capabilities.</h3>
+# MohammadReza Vazifeh
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sirtypeofficial&label=Profile%20views&color=0e75b6&style=flat" alt="sirtypeofficial" /> </p>
+**Full-Stack .NET Developer & Software Architect**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sirtypeofficial" alt="sirtypeofficial" /></a> </p>
+I design and ship distributed .NET systems. Production work since 2018: Clean Architecture, DDD, CQRS, and microservices on .NET 9/10, plus applied AI where it sits beside the transaction path, not inside it.
 
-<p align="left"> <a href="https://twitter.com/sirtypeofficial" target="blank"><img src="https://img.shields.io/twitter/follow/sirtypeofficial?logo=twitter&style=for-the-badge" alt="sirtypeofficial" /></a> </p>
+Shiraz, Iran · [mohammadrezav.ir](https://mohammadrezav.ir) · [LinkedIn](https://www.linkedin.com/in/sirtype/) · mv6468@gmail.com
 
-- 👨‍💻 All of my projects are available at [https://MohammadRezaV.ir](https://MohammadRezaV.ir)
+[English résumé](https://mohammadrezav.ir/downloads/master-resume-en.pdf) · [رزومه فارسی](https://mohammadrezav.ir/downloads/master-resume-fa.pdf)
 
-- 📫 How to reach me **mv6468@gmail.com**
+## Selected work
 
-- 📄 Know about my experiences [https://mohammadrezav.ir/assets/resume/CV%20_%20Resume%20FullStack%20-%20EN.pdf](https://mohammadrezav.ir/assets/resume/CV%20_%20Resume%20FullStack%20-%20EN.pdf)
+**KaratFlow.** Wholesale gold-jewelry ERP with a dual ledger: pure gold weight and KWD making charges. .NET 10, Blazor, ASP.NET Core, PostgreSQL, Redis, SignalR, and QuestPDF. The UI is English, Persian, and Arabic. Personal product from the Ayar Plus engagement, deployed with Docker Compose and nginx.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sirtypeofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sirtypeofficial" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sirtype" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sirtype" height="30" width="40" /></a>
-<a href="https://kaggle.com/sirtype" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sirtype" height="30" width="40" /></a>
-<a href="https://instagram.com/19shz98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="19shz98" height="30" width="40" /></a>
-</p>
+**School transport.** Ertebatat Pazhoohan Matin, for the municipalities of Shiraz, Isfahan, and Qazvin. More than 200,000 users in some cities. Onion Architecture on C# and SQL Server, payment as token, redirect, verify, and a ledger row. ALPR is a separate Python and FastAPI service, with manual fallback when the read is uncertain.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> </p>
+**BahamShop.** Product search on ASP.NET Core 9 and Clean Architecture. n8n drafted SEO copy for the team to approve. A RAG pilot on FastAPI and pgvector stayed off the main traffic.
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/mv64689"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mv64689" /></a></p><br><br>
+**Electricity distribution.** ParsiaAfzar. Live ASP.NET MVC systems across several provinces, then one microservices platform: CQRS, RabbitMQ, DDD, Vue.js, EF Core, and SQL Server.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sirtypeofficial&show_icons=true&locale=en&layout=compact" alt="sirtypeofficial" /></p>
+## Experience
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sirtypeofficial&show_icons=true&locale=en" alt="sirtypeofficial" /></p>
+| When | Where | What |
+| --- | --- | --- |
+| Sep 2025 – Sep 2026 | Ayar Plus | Part-time remote .NET contractor, Kuwait gold ERP |
+| Jun 2025 – Jul 2026 | Ertebatat Pazhoohan Matin | Full-stack developer, hybrid, Shiraz |
+| Dec 2024 – Jun 2025 | BahamShop | Technical Lead and Backend Automation Architect |
+| Jan 2023 – Dec 2024 | Independent | Trading systems, automation, and architecture |
+| Oct 2020 – Jan 2023 | ParsiaAfzar FaraAndishanNovin | Electricity-distribution automation, then microservices |
+| Oct 2019 – Aug 2020 | Rasta Tejarat Beinolmelal Rastak | .NET developer, Angular CRM |
+| Jul 2018 – Oct 2019 | Nikan Exir Vista Rayan | .NET developer, appointment-queue API |
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sirtypeofficial&" alt="sirtypeofficial" /></p>
+Not currently employed. The last roles ended in 2026.
+
+## Stack
+
+C#, Python, Kotlin. ASP.NET Core, .NET 10, Blazor, FastAPI, Vue.js, Angular, .NET MAUI. Clean Architecture, Onion, DDD, CQRS, microservices, REST. SQL Server, PostgreSQL, EF Core, Redis, pgvector. Docker, Git, CI/CD, n8n, RabbitMQ, Serilog.
