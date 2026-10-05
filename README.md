@@ -88,3 +88,24 @@ Not currently employed. The last roles ended in 2026.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sirtypeofficial&hide_border=true" alt="streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sirtypeofficial&theme=github-compact&hide_border=true" alt="activity graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sirtypeofficial&theme=github" alt="profile details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sirtypeofficial&theme=github" alt="repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sirtypeofficial&theme=github" alt="most commit language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sirtypeofficial&theme=github" alt="summary stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sirtypeofficial&theme=github&utcOffset=3.5" alt="productive time" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sirtypeofficial&show_icons=true&locale=en&hide_border=true&include_all_commits=true&count_private=false" alt="all public commits" />
+</p>
